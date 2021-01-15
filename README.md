@@ -1,8 +1,3 @@
-<p align="center">
-<img src="https://static.wikia.nocookie.net/kenja-no-mago/images/8/85/Sizilien_von_klode_1.jpg/revision/latest/top-crop/width/300/height/300?cb=20190417164406" width="128" height="128"/>
-</p>
-<p align="center">
-## FEITO POR KEN
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> FEITO E TRADUZIDO POR: DARK YT
 <p align="center">
 <img src="https://media-giphy-com.cdn.ampproject.org/ii/w820/s/media.giphy.com/media/1g3A0gpaidxWcL9Mfo/giphy.gif" width="230" height="230"/>
@@ -14,7 +9,7 @@
 </details>
 
 ### ATENÇÃO
-DESEJA REMODELAR O SCRIPT? .DONO  .... NÃO ALTERE A INFORMAÇÃO !!!
+DESEJA REMODELAR O SCRIPT? ${prefix}dono .... NÃO ALTERE A INFORMAÇÃO !!!
 
 ### FERRAMENTAS E MATERIAIS <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="29px">
 Prepare as ferramentas e materiais.
@@ -40,43 +35,43 @@ INSTALAÇÃO:
 
 ## CARACTERÍSTICAS  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29px">
 
-| D4RK BOT       |                  Características |
-| :-----------:  | :------------------------------: |
-|       ✅       | Criador de adesivos              |
+| D4RK BOT      |                   Característica        |
+| :-----------: | :------------------------------: |
+|       ✅       | Criador de adesivos                  |
 |       ✅       | Nulis                            |
-|       ✅       | Covid                            |
-|       ✅       | Alay                             |
-|       ✅       | Letras                           |
+|       ✅       | Covid                       |
+|       ✅       | Alay                        |
+|       ✅       | Letras                       |
 |       ✅       | Foto Anime                       |
-|       ✅       | Fotos de menina / menino         |
+|       ✅       | Fotos de menina / menino            |
 |       ✅       | Pantun                           |
 |       ✅       | Youtube Downloader               |
 |       ✅       | Quotes                           |
-|       ✅       | Nome                             |
+|       ✅       | Nome                        |
 |       ✅       | Foto Anime                       |
-|       ✅       | Casal                            |
-|       ✅       | Oração                           |
-|       ✅       | Google Voice (fix)               |
-|       ✅       | Alcorão                          |
-|       ✅       | Downloader MP3 do Youtube        |
-|       ✅       | Downloader Instagram             |
+|       ✅       | Casal                    |
+|       ✅       | Oração                     |
+|       ✅       | Google Voice                |
+|       ✅       | Alcorão                            |
+|       ✅       | Downloader MP3 do Youtube           |
+|       ✅       | Downloader Instagram              |
 |       ✅       | Twitter Downloader               |
-|       ✅       | Downloader do Facebook           |
-|       ✅       | Downloader TikTok                |
+|       ✅       | Downloader do Facebook              |
+|       ✅       | Downloader TikTok          |
 |       ✅       | Wikipedia                        |
 |       ✅       | Say                              |
-|       ✅       | Tóxico                           |
+|       ✅       | Tóxico                       |
 |       ✅       | loli                             |
 |       ✅       | hentai                           |
-|       ✅       | Proprietário                     |
-|       ✅       | disse o sábio                    |
+|       ✅       | Proprietário                       |
+|       ✅       | disse o sábio                       |
 |       ✅       | Facto                            |
 |       ✅       | Pokemon                          |
 |       ✅       | Info                             |
-|       ✅       | Doar                             |
+|       ✅       | Doar                           |
 |       ✅       | 18+.                             |
 |       ✅       | MAIS recursos em breve 🍂        |
 
-KEN DOMINA 🤙🤠
+KEN DOMINA 🔥❤
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
