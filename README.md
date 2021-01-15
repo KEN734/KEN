@@ -13,14 +13,13 @@ DESEJA RE-CARREGAR O SCRIPT? AMO MEU NOME / LINK CHANEL .... NÃO ALTERE A INFOR
 
 ### FERRAMENTAS E MATERIAIS <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="29px">
 Prepare as ferramentas e materiais.
-`` `bash
+```
 > 2 telefones celulares (1 para executar SC, 1 para ler o código QR sis)
 > rede de internet rápida, cota +
 > armazenamento adequado
 > aplicativo whatsapp
 > aplicativo termux
-> café + cigarros KKKK;-;
-```
+
 INSTALAÇÃO:
 
 > Se você não tiver o APK Termux, baixe-o na Playstore
