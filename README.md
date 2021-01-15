@@ -9,16 +9,17 @@
 </details>
 
 ### ATENÇÃO
-DESEJA REMODELAR O SCRIPT? ${prefix}dono .... NÃO ALTERE A INFORMAÇÃO !!!
+DESEJA RE-CARREGAR O SCRIPT? AMO MEU NOME / LINK CHANEL .... NÃO ALTERE A INFORMAÇÃO !!!
 
 ### FERRAMENTAS E MATERIAIS <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="29px">
 Prepare as ferramentas e materiais.
-```
+`` `bash
 > 2 telefones celulares (1 para executar SC, 1 para ler o código QR sis)
 > rede de internet rápida, cota +
 > armazenamento adequado
 > aplicativo whatsapp
 > aplicativo termux
+> café + cigarros KKKK;-;
 ```
 INSTALAÇÃO:
 
@@ -35,35 +36,35 @@ INSTALAÇÃO:
 
 ## CARACTERÍSTICAS  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29px">
 
-| D4RK BOT      |                   Característica        |
+| KEN BOT      |                   Característica        |
 | :-----------: | :------------------------------: |
 |       ✅       | Criador de adesivos                  |
 |       ✅       | Nulis                            |
-|       ✅       | Covid                       |
-|       ✅       | Alay                        |
-|       ✅       | Letras                       |
+|       ✅       | Covid (Novo)                      |
+|       ✅       | Alay (novo)                       |
+|       ✅       | Letras (novo)                      |
 |       ✅       | Foto Anime                       |
-|       ✅       | Fotos de menina / menino            |
+|       ✅       | Fotos de menina / menino (Novo)           |
 |       ✅       | Pantun                           |
 |       ✅       | Youtube Downloader               |
 |       ✅       | Quotes                           |
-|       ✅       | Nome                        |
+|       ✅       | Nome (Novo)                       |
 |       ✅       | Foto Anime                       |
-|       ✅       | Casal                    |
-|       ✅       | Oração                     |
-|       ✅       | Google Voice                |
+|       ✅       | Casal (Novo)                   |
+|       ✅       | Oração (Novo )                    |
+|       ✅       | Google Voice (fix)               |
 |       ✅       | Alcorão                            |
 |       ✅       | Downloader MP3 do Youtube           |
 |       ✅       | Downloader Instagram              |
 |       ✅       | Twitter Downloader               |
 |       ✅       | Downloader do Facebook              |
-|       ✅       | Downloader TikTok          |
+|       ✅       | Downloader TikTok (novo)         |
 |       ✅       | Wikipedia                        |
 |       ✅       | Say                              |
-|       ✅       | Tóxico                       |
+|       ✅       | Tóxico (Novo)                      |
 |       ✅       | loli                             |
 |       ✅       | hentai                           |
-|       ✅       | Proprietário                       |
+|       ✅       | Proprietário (novo)                      |
 |       ✅       | disse o sábio                       |
 |       ✅       | Facto                            |
 |       ✅       | Pokemon                          |
@@ -72,6 +73,6 @@ INSTALAÇÃO:
 |       ✅       | 18+.                             |
 |       ✅       | MAIS recursos em breve 🍂        |
 
-KEN DOMINA 🔥❤
+KEN DOMINA 🐦❤️
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
